@@ -1,6 +1,7 @@
 [
 	{ "caption": "-" },
-	{"caption": "时间戳转换", "command": "magic_time"},
-	{"caption": "生成时间戳", "command": "magic_new_time"},
+	{"caption": "时间戳解码", "command": "magic_time_decode"},
+	{"caption": "时间戳编码", "command": "magic_time_encode"},
+	{"caption": "生成时间戳", "command": "magic_time_create"},
 	{ "caption": "-" },
 ]
