@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+alt+t"], "command": "magic_time" },
+]

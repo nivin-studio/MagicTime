@@ -1,0 +1,6 @@
+[
+	{ "caption": "-" },
+	{"caption": "时间戳转换", "command": "magic_time"},
+	{"caption": "生成时间戳", "command": "magic_new_time"},
+	{ "caption": "-" },
+]
