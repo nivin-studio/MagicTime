@@ -1,5 +1,5 @@
 {
-    "decode_format": "%Y/%m/%d %H:%M:%S",
+    "decode_format": "%Y-%m-%d %H:%M:%S",
     "encode_rule": [
         "%Y-%m-%d",
         "%Y/%m/%d",
